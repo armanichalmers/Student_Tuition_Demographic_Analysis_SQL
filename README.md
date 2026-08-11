@@ -93,7 +93,9 @@ The analysis included filtering records by gender, grouping observations by pare
 
 ## 📊 Data Visualizations
 
-Following the SQL analysis, the resulting data was visualized to explore several relationships:
+Following the SQL analysis, **Google Sheets** was used to visualize the results and make demographic and socioeconomic patterns easier to identify.
+
+The visualizations include:
 
 - **Average Tuition by Gender and Ethnicity**
 - **Father's College Attendance by Gender and Ethnicity**
@@ -102,7 +104,7 @@ Following the SQL analysis, the resulting data was visualized to explore several
 - **High and Low Income by Ethnicity**
 - **Average Wage by Region**
 
-These visualizations helped translate the SQL analysis into patterns that could be interpreted more easily.
+Together, the visualizations provide a broader view of how tuition, family background, income, demographics, and geographic factors vary within the student dataset.
 
 ---
 
@@ -143,4 +145,4 @@ The original project portfolio documents the SQL analysis, visualizations, findi
 
 ## 📚 Project Background
 
-This project was originally completed as part of the **EntryLevel Data Analyst 3: Advanced SQL program** and has been organized here as a portfolio case study demonstrating multi-table SQL analysis, data integration, exploratory analysis, visualization, and analytical problem-solving.
+This project was originally completed as part of the **EntryLevel Data Analyst 3: Advanced SQL program** and has been organized here as a portfolio case study demonstrating multi-table SQL analysis, data integration, exploratory analysis, **Google Sheets data visualization**, and analytical problem-solving.
