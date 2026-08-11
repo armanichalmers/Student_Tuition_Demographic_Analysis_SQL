@@ -44,20 +44,23 @@ The four datasets were joined using a common ID to create a consolidated analyti
 ## 🛠️ Tools & Skills
 
 - **SQL**
+- **Google Sheets**
 - INNER JOIN
 - Multi-Table Queries
 - CREATE TABLE
 - SELECT Statements
 - WHERE Clauses
 - GROUP BY
+- ORDER BY
 - COUNT()
+- AVG()
 - Data Integration
 - Data Filtering
 - Data Aggregation
 - Exploratory Data Analysis
 - Data Visualization
 - Analytical Interpretation
-
+  
 ---
 
 ## 🔗 Data Integration
