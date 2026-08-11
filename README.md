@@ -134,7 +134,7 @@ Further analysis should:
 
 The original project portfolio documents the SQL analysis, visualizations, findings, and conclusions.
 
-📄 **[View the Full Advanced SQL Portfolio](https://github.com/armanichalmers/Student_Tuition_Demographic_Analysis_SQL/blob/main/EntryLevel_DA_SQL_3.pdf)**
+📄 **[View the Full Advanced SQL Portfolio](https://github.com/armanichalmers/Student_Tuition_Demographic_Analysis_SQL/blob/main/EntryLevel_DA_SQL_3_Final.pdf)**
 
 ---
 
