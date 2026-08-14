@@ -28,10 +28,10 @@ The analysis explored questions such as:
 
 The analysis used four related datasets:
 
-- `country_info`
-- `student_academic_info`
-- `student_family_details`
-- `student_personal_details`
+- [`country_info`](https://github.com/armanichalmers/Student_Tuition_Demographic_Analysis_SQL/blob/main/data/county_info.csv)
+- [`student_academic_info`](https://github.com/armanichalmers/Student_Tuition_Demographic_Analysis_SQL/blob/main/data/student_academic_info.csv)
+- [`student_family_details`](https://github.com/armanichalmers/Student_Tuition_Demographic_Analysis_SQL/blob/main/data/student_family_details.csv)
+- [`student_personal_details`](https://github.com/armanichalmers/Student_Tuition_Demographic_Analysis_SQL/blob/main/data/student_personal_details.csv)
 
 The datasets contained information related to student demographics, academic characteristics, family background, tuition, income, and geographic information.
 
